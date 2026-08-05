@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aki-max-min/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0486-predict-the-winner](https://github.com/Aki-max-min/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aki-max-min/LeetCode/tree/master/0877-stone-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aki-max-min/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Aki-max-min/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/Aki-max-min/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Aki-max-min/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aki-max-min/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
