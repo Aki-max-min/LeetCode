@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aki-max-min/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Aki-max-min/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Aki-max-min/LeetCode/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Aki-max-min/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aki-max-min/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aki-max-min/LeetCode/tree/master/1140-stone-game-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aki-max-min/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Aki-max-min/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aki-max-min/LeetCode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Aki-max-min/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aki-max-min/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aki-max-min/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Aki-max-min/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Aki-max-min/LeetCode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aki-max-min/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
