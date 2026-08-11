@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aki-max-min/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Aki-max-min/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/Aki-max-min/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aki-max-min/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Aki-max-min/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Aki-max-min/LeetCode/tree/master/0486-predict-the-winner) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aki-max-min/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aki-max-min/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Aki-max-min/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aki-max-min/LeetCode/tree/master/0877-stone-game) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aki-max-min/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aki-max-min/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
