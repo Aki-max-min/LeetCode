@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Aki-max-min/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aki-max-min/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aki-max-min/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aki-max-min/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aki-max-min/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aki-max-min/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aki-max-min/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aki-max-min/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aki-max-min/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Aki-max-min/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aki-max-min/LeetCode/tree/master/0242-valid-anagram) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aki-max-min/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -232,7 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aki-max-min/LeetCode/tree/master/1510-stone-game-iv) |
-## Sprague–Grundy Theorem
+## SpragueâGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aki-max-min/LeetCode/tree/master/1510-stone-game-iv) |
