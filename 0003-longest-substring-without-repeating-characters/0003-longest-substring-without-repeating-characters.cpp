@@ -7,18 +7,17 @@ public:
         for(int i=0;i<hashlen;++i){
             hash[i]=-1;
         }
-        int left=0,right=0,maxlen=0;
-        while(right<n){
-            if(hash [s[right]]!=-1){
-                left=max(hash [s[right]]+1,left);
+        int l=0,r=0,maxlen=0;
+        while(r<n){
+            if(hash [s[r]]!=-1){
+                l=max(hash[s[r]]+1,l);
             }
-            int len =right-left+1;
+            int len=r-l+1;
             maxlen=max(maxlen,len);
-            hash[s[right]]=right;
-            right++;
+            hash[s[r]]=r;
+            r++;
         }
         return maxlen;
-
         
     }
 };
