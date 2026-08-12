@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aki-max-min/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Aki-max-min/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aki-max-min/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Aki-max-min/LeetCode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1922-count-good-numbers) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aki-max-min/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aki-max-min/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
