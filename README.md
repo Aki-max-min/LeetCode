@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aki-max-min/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aki-max-min/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/Aki-max-min/LeetCode/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Aki-max-min/LeetCode/tree/master/0231-power-of-two) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aki-max-min/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -269,7 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aki-max-min/LeetCode/tree/master/1510-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aki-max-min/LeetCode/tree/master/1510-stone-game-iv) |
