@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aki-max-min/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Aki-max-min/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [4107-find-missing-elements](https://github.com/Aki-max-min/LeetCode/tree/master/4107-find-missing-elements) |
 ## Binary Search
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aki-max-min/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aki-max-min/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Aki-max-min/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aki-max-min/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -267,7 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aki-max-min/LeetCode/tree/master/1510-stone-game-iv) |
-## SpragueÃ¢ÂÂGrundy Theorem
+## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aki-max-min/LeetCode/tree/master/1510-stone-game-iv) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aki-max-min/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aki-max-min/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aki-max-min/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Aki-max-min/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
