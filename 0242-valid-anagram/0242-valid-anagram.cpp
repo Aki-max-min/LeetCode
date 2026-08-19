@@ -1,17 +1,21 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int m1[256]={0};
+        int mp[256]={0};
         if(s.size()!=t.size()) return false;
-        for(char c: s){
-            m1[c]++;
+        for(int a:s){
+            mp[a]++;
         }
-        for(char c: t){
-            m1[c]--;
+        for(int a:t){
+            mp[a]--;
         }
         for(int i=0;i<256;i++){
-            if(m1[i]!=0) return false;
+            if(mp[i]!=0){
+                return false;
+            }
         }
         return true;
+
+        
     }
 };
