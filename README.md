@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aki-max-min/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aki-max-min/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aki-max-min/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aki-max-min/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aki-max-min/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Aki-max-min/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aki-max-min/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aki-max-min/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Aki-max-min/LeetCode/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
