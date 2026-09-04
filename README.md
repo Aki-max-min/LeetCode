@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aki-max-min/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aki-max-min/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aki-max-min/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Aki-max-min/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aki-max-min/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/Aki-max-min/LeetCode/tree/master/4107-find-missing-elements) |
 ## Math
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Aki-max-min/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/Aki-max-min/LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aki-max-min/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3903-smallest-stable-index-i](https://github.com/Aki-max-min/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
