@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Aki-max-min/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Aki-max-min/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aki-max-min/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Aki-max-min/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Aki-max-min/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aki-max-min/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-shift-2d-grid](https://github.com/Aki-max-min/LeetCode/tree/master/1386-shift-2d-grid) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Aki-max-min/LeetCode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aki-max-min/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Aki-max-min/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aki-max-min/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
