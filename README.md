@@ -361,7 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aki-max-min/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Aki-max-min/LeetCode/tree/master/2029-stone-game-ix) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aki-max-min/LeetCode/tree/master/1510-stone-game-iv) |
@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Aki-max-min/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Aki-max-min/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Aki-max-min/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Aki-max-min/LeetCode/tree/master/0595-big-countries) |
