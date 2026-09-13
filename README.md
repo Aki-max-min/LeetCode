@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Aki-max-min/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aki-max-min/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aki-max-min/LeetCode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/Aki-max-min/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Aki-max-min/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aki-max-min/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-shift-2d-grid](https://github.com/Aki-max-min/LeetCode/tree/master/1386-shift-2d-grid) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Aki-max-min/LeetCode/tree/master/0835-image-overlap) |
 | [1386-shift-2d-grid](https://github.com/Aki-max-min/LeetCode/tree/master/1386-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aki-max-min/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
