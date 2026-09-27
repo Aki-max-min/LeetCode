@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aki-max-min/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
