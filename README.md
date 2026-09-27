@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/Aki-max-min/LeetCode/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
@@ -30,4 +31,16 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Aki-max-min/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aki-max-min/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
