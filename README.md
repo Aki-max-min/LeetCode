@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Aki-max-min/LeetCode/tree/master/0055-jump-game) |
+| [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Aki-max-min/LeetCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/Aki-max-min/LeetCode/tree/master/0525-contiguous-array) |
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/Aki-max-min/LeetCode/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
@@ -80,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1095-two-city-scheduling](https://github.com/Aki-max-min/LeetCode/tree/master/1095-two-city-scheduling) |
 ## Hungarian Algorithm
@@ -110,4 +113,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
