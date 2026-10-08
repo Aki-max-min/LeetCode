@@ -31,6 +31,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aki-max-min/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aki-max-min/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aki-max-min/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -42,6 +43,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aki-max-min/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aki-max-min/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aki-max-min/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -54,6 +56,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aki-max-min/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aki-max-min/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aki-max-min/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -130,7 +133,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
