@@ -35,6 +35,7 @@
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aki-max-min/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aki-max-min/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aki-max-min/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aki-max-min/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aki-max-min/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aki-max-min/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aki-max-min/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Database
 |  |
@@ -90,6 +93,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aki-max-min/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aki-max-min/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1095-two-city-scheduling](https://github.com/Aki-max-min/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aki-max-min/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
 | ------- |
@@ -133,7 +137,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
