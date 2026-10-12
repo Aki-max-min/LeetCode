@@ -10,6 +10,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/Aki-max-min/LeetCode/tree/master/0525-contiguous-array) |
 | [0733-flood-fill](https://github.com/Aki-max-min/LeetCode/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/Aki-max-min/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aki-max-min/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1095-two-city-scheduling](https://github.com/Aki-max-min/LeetCode/tree/master/1095-two-city-scheduling) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aki-max-min/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/Aki-max-min/LeetCode/tree/master/0525-contiguous-array) |
+| [0740-delete-and-earn](https://github.com/Aki-max-min/LeetCode/tree/master/0740-delete-and-earn) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aki-max-min/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -89,6 +91,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Aki-max-min/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/Aki-max-min/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aki-max-min/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aki-max-min/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
