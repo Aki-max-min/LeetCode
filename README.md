@@ -84,6 +84,7 @@
 | [0022-generate-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Aki-max-min/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Aki-max-min/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Aki-max-min/LeetCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/0509-fibonacci-number) |
@@ -125,6 +126,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aki-max-min/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -134,6 +136,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aki-max-min/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
