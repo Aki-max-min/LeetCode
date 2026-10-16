@@ -88,6 +88,7 @@
 | [0022-generate-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Aki-max-min/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Aki-max-min/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aki-max-min/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Aki-max-min/LeetCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -131,6 +132,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aki-max-min/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aki-max-min/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -192,4 +194,8 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aki-max-min/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aki-max-min/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
