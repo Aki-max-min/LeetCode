@@ -18,6 +18,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aki-max-min/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aki-max-min/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aki-max-min/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0740-delete-and-earn](https://github.com/Aki-max-min/LeetCode/tree/master/0740-delete-and-earn) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aki-max-min/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aki-max-min/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1095-two-city-scheduling](https://github.com/Aki-max-min/LeetCode/tree/master/1095-two-city-scheduling) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aki-max-min/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -158,7 +161,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
