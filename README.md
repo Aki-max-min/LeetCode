@@ -19,6 +19,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aki-max-min/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aki-max-min/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [4257-sum-of-sortable-integers](https://github.com/Aki-max-min/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [1095-two-city-scheduling](https://github.com/Aki-max-min/LeetCode/tree/master/1095-two-city-scheduling) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aki-max-min/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [4257-sum-of-sortable-integers](https://github.com/Aki-max-min/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0070-climbing-stairs](https://github.com/Aki-max-min/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [4257-sum-of-sortable-integers](https://github.com/Aki-max-min/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -161,7 +164,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aki-max-min/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [4257-sum-of-sortable-integers](https://github.com/Aki-max-min/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
