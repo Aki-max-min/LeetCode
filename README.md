@@ -47,6 +47,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aki-max-min/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aki-max-min/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/Aki-max-min/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -164,7 +165,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
