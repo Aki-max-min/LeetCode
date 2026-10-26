@@ -19,6 +19,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aki-max-min/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aki-max-min/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aki-max-min/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Aki-max-min/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4257-sum-of-sortable-integers](https://github.com/Aki-max-min/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 ## Hash Table
@@ -138,6 +139,7 @@
 | [0733-flood-fill](https://github.com/Aki-max-min/LeetCode/tree/master/0733-flood-fill) |
 | [1380-number-of-closed-islands](https://github.com/Aki-max-min/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aki-max-min/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Aki-max-min/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -169,7 +171,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
@@ -178,11 +180,13 @@
 | ------- |
 | [0733-flood-fill](https://github.com/Aki-max-min/LeetCode/tree/master/0733-flood-fill) |
 | [1380-number-of-closed-islands](https://github.com/Aki-max-min/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Aki-max-min/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Aki-max-min/LeetCode/tree/master/0733-flood-fill) |
 | [1380-number-of-closed-islands](https://github.com/Aki-max-min/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Aki-max-min/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,4 +220,5 @@
 |  |
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/Aki-max-min/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Aki-max-min/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
