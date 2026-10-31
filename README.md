@@ -19,6 +19,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aki-max-min/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aki-max-min/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aki-max-min/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Aki-max-min/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Aki-max-min/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/Aki-max-min/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
@@ -107,6 +108,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Aki-max-min/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Aki-max-min/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aki-max-min/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/Aki-max-min/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0733-flood-fill](https://github.com/Aki-max-min/LeetCode/tree/master/0733-flood-fill) |
 | [1380-number-of-closed-islands](https://github.com/Aki-max-min/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aki-max-min/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/Aki-max-min/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Aki-max-min/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
