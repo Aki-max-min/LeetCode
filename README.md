@@ -17,6 +17,7 @@
 | [1095-two-city-scheduling](https://github.com/Aki-max-min/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/Aki-max-min/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1380-number-of-closed-islands](https://github.com/Aki-max-min/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aki-max-min/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aki-max-min/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aki-max-min/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aki-max-min/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -132,6 +133,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Aki-max-min/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aki-max-min/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1095-two-city-scheduling](https://github.com/Aki-max-min/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aki-max-min/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aki-max-min/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4257-sum-of-sortable-integers](https://github.com/Aki-max-min/LeetCode/tree/master/4257-sum-of-sortable-integers) |
@@ -209,6 +211,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aki-max-min/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aki-max-min/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -257,4 +260,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aki-max-min/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aki-max-min/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
