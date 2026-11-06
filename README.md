@@ -20,6 +20,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aki-max-min/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aki-max-min/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aki-max-min/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Aki-max-min/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aki-max-min/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aki-max-min/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aki-max-min/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -35,6 +36,7 @@
 | [0169-majority-element](https://github.com/Aki-max-min/LeetCode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/Aki-max-min/LeetCode/tree/master/0525-contiguous-array) |
 | [0740-delete-and-earn](https://github.com/Aki-max-min/LeetCode/tree/master/0740-delete-and-earn) |
+| [2747-count-zero-request-servers](https://github.com/Aki-max-min/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aki-max-min/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aki-max-min/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -135,6 +137,7 @@
 | [1095-two-city-scheduling](https://github.com/Aki-max-min/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aki-max-min/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aki-max-min/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Aki-max-min/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aki-max-min/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4257-sum-of-sortable-integers](https://github.com/Aki-max-min/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 ## Hungarian Algorithm
@@ -264,4 +267,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aki-max-min/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/Aki-max-min/LeetCode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
