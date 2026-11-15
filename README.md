@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aki-max-min/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
 |  |
@@ -29,4 +30,16 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aki-max-min/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Math
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
