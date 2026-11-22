@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aki-max-min/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aki-max-min/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
