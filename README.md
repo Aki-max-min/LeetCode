@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aki-max-min/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
@@ -33,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
@@ -41,6 +43,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
@@ -51,4 +54,12 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aki-max-min/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
