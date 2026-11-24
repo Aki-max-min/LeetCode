@@ -7,6 +7,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aki-max-min/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Aki-max-min/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aki-max-min/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Aki-max-min/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Aki-max-min/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +65,12 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Aki-max-min/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Aki-max-min/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
