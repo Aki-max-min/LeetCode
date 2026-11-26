@@ -38,6 +38,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Aki-max-min/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aki-max-min/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3625-stone-removal-game](https://github.com/Aki-max-min/LeetCode/tree/master/3625-stone-removal-game) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Aki-max-min/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aki-max-min/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3625-stone-removal-game](https://github.com/Aki-max-min/LeetCode/tree/master/3625-stone-removal-game) |
 ## Design
 |  |
 | ------- |
